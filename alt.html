@@ -79,7 +79,7 @@
             <td style="vertical-align: top;" class="{{color}}">
                 <ul class="navlist">
                     {{#records}}
-                        <li><a href="{{link}}" target="_blank" class="{{../color}}">[{{{text}}}]</a></li>
+                        <li><a href="{{link}}" target="_blank" class="{{../color}}">[{{{text}}}]</a></li> <!--show category nanes-->
                     {{/records}}
                 </ul>
             </td>
@@ -96,7 +96,6 @@
                         {{#records}}
                             <li><a href="{{link}}" target="_blank" class="{{../color}}">
                                 <img src="{{iconPath}}" width="{{iconWidth}}" height="{{iconHeight}}">
-                                
                                 [{{{text}}}]</a></li>
                         {{/records}}
                     </ul>
@@ -158,7 +157,6 @@
 
             }
             
-            
             function runclock() {
 				const date = moment().format("dddd, Do MMMM");
 				$('#date').text(date);
@@ -174,7 +172,7 @@
 				var msg = "";
 				switch (true) { 
 					case HH >= 17:
-                        msg = "Good evening Dicko";
+                        msg = "Good evening";
 						break;
 					case HH >= 12:
                         msg = "Good afternoon";
@@ -201,7 +199,6 @@
 				runHandleBars(dataset, 'News', 'fg-uif-asbestos', '#textLink', '#hbrepeater')
                 runHandleBars(dataset, 'Social', 'fg-uif-orange', '#textLink', '#hbrepeater')
                 //runHandleBars(dataset, 'Tools', 'fg-uif-nephritis', '#textLink', '#hbrepeater')
-                
                 runclock();
                
 			});
