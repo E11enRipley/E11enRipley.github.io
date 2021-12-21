@@ -296,6 +296,12 @@ dataset = {
         },
         {
             "cat": "work/tools",
+            "text": "CITEC Splunk",
+            "icon": "fas fa-search",
+            "link": "https://splunk.qgs.qld.gov.au/"
+        },       
+        {
+            "cat": "work/tools",
             "text": "Awesome TechStack",
             "icon": "fas fa-building",
             "link": "https://awesometechstack.com/"
