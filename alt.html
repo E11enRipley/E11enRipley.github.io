@@ -46,20 +46,20 @@
 
 
         <div class="container fluid">
-            <div class="row fg-uif-silver">
+            <div class="row fg-uif-asbestos">
                 <div class="col-3">		
-                   <h5 id="greeting"></h5>
+                   <h5 id="greeting"></h5><!--greeting-->
                    <h5 id="date" class="text-left"></h5>
                 </div>
                 <div class="col-9">
                     <div class="row">
-                        <div id="clocks" class="row"></div>
+                        <div id="clocks" class="row"></div><!--clock-->
                     </div>
                 </div>
             </div>
             <div class="row"><hr></div>
             <div class="row">
-                <div id="hbrepeater" class="row">
+                <div id="hbrepeater" class="row"><!--categories-->
 
                 </div>
             </div>
@@ -79,7 +79,7 @@
             <td style="vertical-align: top;" class="{{color}}">
                 <ul class="navlist">
                     {{#records}}
-                        <li><a href="{{link}}" target="_blank" class="{{../color}}">[{{{text}}}]</a></li> <!--show category nanes-->
+                        <li><a href="{{link}}" target="_blank" class="{{../color}}">[{{{text}}}]</a></li> <!--category nanes-->
                     {{/records}}
                 </ul>
             </td>
@@ -103,9 +103,9 @@
             </div>
         </script>
 
-		<script id="textLink" type="text/template">
+		<script id="textLink" type="text/template"><!-- render the headings on the categories-->
                 <div class="col-sm-3 ">
-                    <div class="fw-bold {{color}}">      {{name}}</div>
+                    <div class="fw-bold {{color}}"> {{name}}</div>
                     <div class="list-group transparentBorder" style="margin-bottom:10px;">
                         {{#records}}
                             <a href="{{link}}" target="_blank" class="list-group-item transparentBorder list-group-item-action {{../color}}">
@@ -145,10 +145,10 @@
             function getTime() {
                 var ds = {}
                 ds.records = [];
-                ds.records.push({"time":moment().tz("Asia/Shanghai").format(("HH:mm")), "zone":"China", "color":"fg-uif-silver"});
-                ds.records.push({"time":moment().tz("Australia/Queensland").format(("HH:mm")), "zone":"Brisbane", "color":"fg-uif-silver"});
-                ds.records.push({"time":moment().tz("UTC").format(("HH:mm")), "zone":"UTC", "color":"silver"});
-                ds.records.push({"time":moment().tz("Europe/Moscow").format(("HH:mm")), "zone":"Moscow", "color":"fg-uif-silver"});
+                ds.records.push({"time":moment().tz("Asia/Shanghai").format(("HH:mm")), "zone":"China", "color":"fg-uif-clouds"});
+                ds.records.push({"time":moment().tz("Australia/Queensland").format(("HH:mm")), "zone":"Brisbane", "color":"fg-uif-clouds"});
+                ds.records.push({"time":moment().tz("UTC").format(("HH:mm")), "zone":"UTC", "color":"fg-uif-clouds"});
+                ds.records.push({"time":moment().tz("Europe/Moscow").format(("HH:mm")), "zone":"Moscow", "color":"fg-uif-clouds"});
                 var template = $("#clock").html();
 				var stone = Handlebars.compile(template)(ds);
 				$("#clocks").empty().append(stone);
