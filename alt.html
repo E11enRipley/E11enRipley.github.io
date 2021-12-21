@@ -145,10 +145,10 @@
             function getTime() {
                 var ds = {}
                 ds.records = [];
-                ds.records.push({"time":moment().tz("Asia/Shanghai").format(("HH:mm")), "zone":"China", "color":"fg-uif-alizarin"});
-                ds.records.push({"time":moment().tz("Australia/Queensland").format(("HH:mm")), "zone":"Brisbane", "color":"fg-uif-nephritis"});
-                ds.records.push({"time":moment().tz("UTC").format(("HH:mm")), "zone":"UTC", "color":""});
-                ds.records.push({"time":moment().tz("Europe/Moscow").format(("HH:mm")), "zone":"Moscow", "color":"fg-uif-alizarin"});
+                ds.records.push({"time":moment().tz("Asia/Shanghai").format(("HH:mm")), "zone":"China", "color":"fg-uif-silver"});
+                ds.records.push({"time":moment().tz("Australia/Queensland").format(("HH:mm")), "zone":"Brisbane", "color":"fg-uif-silver"});
+                ds.records.push({"time":moment().tz("UTC").format(("HH:mm")), "zone":"UTC", "color":"silver"});
+                ds.records.push({"time":moment().tz("Europe/Moscow").format(("HH:mm")), "zone":"Moscow", "color":"fg-uif-silver"});
                 var template = $("#clock").html();
 				var stone = Handlebars.compile(template)(ds);
 				$("#clocks").empty().append(stone);
