@@ -407,6 +407,12 @@ dataset = {
         //learning
         {
             "cat": "learning",
+            "text": "Cybrary",
+            //"icon": "fas fa-chalkboard-teacher",
+            "link": "https://www.cybrary.it/login/"
+        },
+        {
+            "cat": "learning",
             "text": "Udemy",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://www.udemy.com/"
