@@ -180,10 +180,18 @@ dataset = {
         },
         {
             "cat": "malware analysis",
+            "text": "Intezer",
+            //"icon": "fas fa-spider",
+            "link": "https://analyze.intezer.com/"
+        },
+        {
+            "cat": "malware analysis",
             "text": "Abuse.ch",
             //"icon": "fas fa-spider",
             "link": "https://abuse.ch/"
         },
+
+
 
                 ////////////////////////////////////////
         //security
@@ -281,6 +289,25 @@ dataset = {
             //"icon": "fas fa-search-location",
             "link": "https://dnstwister.report/"
         },
+        {
+            "cat": "ip/dns",
+            "text": "Domain Dossier",
+            //"icon": "fas fa-search-location",
+            "link": "https://centralops.net/co/DomainDossier.aspx"
+        },
+        {
+            "cat": "ip/dns",
+            "text": "Hacker Target",
+            //"icon": "fas fa-search-location",
+            "link": "https://hackertarget.com/ip-tools/"
+        },
+
+
+
+        
+
+
+        
 
                 ////////////////////////////////////////
         //work
@@ -304,7 +331,7 @@ dataset = {
         },
         {
             "cat": "work/tools",
-            "text": "CITEC Splunk",
+            "text": "Splunk",
             //"icon": "fas fa-search",
             "link": "https://splunk.qgs.qld.gov.au/"
         },       
