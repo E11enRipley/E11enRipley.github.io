@@ -209,18 +209,6 @@ dataset = {
         },
         {
             "cat": "security",
-            "text": "Threatpost",
-            //"icon": "fas fa-newspaper",
-            "link": "https://threatpost.com/"
-        },
-        {
-            "cat": "security",
-            "text": "Hacker News",
-            //"icon": "fas fa-newspaper",
-            "link": "https://thehackernews.com/"
-        },
-        {
-            "cat": "security",
             "text": "ACSC",
             //"icon": "fas fa-user-secret",
             "link": "https://www.cyber.gov.au/"
@@ -249,7 +237,6 @@ dataset = {
             //"icon": "fas fa-key",
             "link": "https://www.useapassphrase.com/"
         },
-
 
                 ////////////////////////////////////////
         //IP/DNS
@@ -301,13 +288,6 @@ dataset = {
             //"icon": "fas fa-search-location",
             "link": "https://hackertarget.com/ip-tools/"
         },
-
-
-
-        
-
-
-        
 
                 ////////////////////////////////////////
         //work
