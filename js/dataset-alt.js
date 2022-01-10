@@ -11,7 +11,7 @@ dataset = {
         {   "cat": "microsoft", 
             "text":"Sentinel", 
             //"icon":"fab fa-microsoft", 
-            "link":"https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/MainMenuBlade/0/subscriptionId/e472542b-3ba3-461b-9754-99ea000ff7df/resourceGroup/DPC_Sentinel_Prod_RG/workspaceName/DPCAzureSentinel"
+            "link":"https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/microsoft.securityinsightsarg%2Fsentinel"
         },
         {   "cat": "microsoft", 
             "text":"Cloud App Security", 
@@ -21,7 +21,7 @@ dataset = {
         {   "cat": "microsoft", 
             "text":"Security & Compliance", 
             //"icon":"fab fa-microsoft", 
-            "link":"https://dpcqld.portal.cloudappsecurity.com"
+            "link":"https://protection.office.com/homepage"
         },
         {   "cat": "microsoft", 
             "text":"Defender ATP", 
@@ -33,9 +33,12 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/homepage"
         },
+        {   "cat": "microsoft", 
+            "text":"Intune", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://endpoint.microsoft.com/#home"
+        },
 
-
-       
 
         ////////////////////////////////////////
         //news
