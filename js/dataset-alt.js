@@ -186,9 +186,9 @@ dataset = {
         },
         {
             "cat": "malware analysis",
-            "text": "Abuse.ch",
+            "text": "URLHaus.abuse",
             //"icon": "fas fa-spider",
-            "link": "https://abuse.ch/"
+            "link": "https://urlhaus.abuse.ch/browse/"
         },
 
 
