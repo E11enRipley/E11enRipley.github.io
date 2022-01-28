@@ -38,6 +38,14 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://endpoint.microsoft.com/#home"
         },
+        {   "cat": "microsoft", 
+            "text":"MS Admin portal", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://admin.microsoft.com/AdminPortal/Home?#/homepage"
+        },
+
+
+        
 
 
         ////////////////////////////////////////
