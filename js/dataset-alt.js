@@ -182,6 +182,12 @@ dataset = {
         },
         {
             "cat": "malware analysis",
+            "text": "URLHaus.abuse",
+            //"icon": "fas fa-spider",
+            "link": "https://urlhaus.abuse.ch/browse/"
+        },
+        {
+            "cat": "malware analysis",
             "text": "Cuckoo",
             //"icon": "fas fa-spider",
             "link": "https://sandbox.pikker.ee/"
@@ -192,13 +198,6 @@ dataset = {
             //"icon": "fas fa-spider",
             "link": "https://analyze.intezer.com/"
         },
-        {
-            "cat": "malware analysis",
-            "text": "URLHaus.abuse",
-            //"icon": "fas fa-spider",
-            "link": "https://urlhaus.abuse.ch/browse/"
-        },
-
 
 
                 ////////////////////////////////////////
@@ -259,6 +258,12 @@ dataset = {
             "text": "IP Toolbox",
             //"icon": "fas fa-search-location",
             "link": "https://mxtoolbox.com/SuperTool.aspx"
+        },
+        {
+            "cat": "ip/dns",
+            "text": "Greynoise",
+            //"icon": "fas fa-spider",
+            "link": "https://www.greynoise.io"
         },
         {
             "cat": "ip/dns",
