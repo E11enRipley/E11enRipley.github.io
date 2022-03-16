@@ -306,6 +306,12 @@ dataset = {
         //work
         {
             "cat": "work/products",
+            "text": "The Hive",
+            //"icon": "fas fa-shield-alt",
+            "link": "https://hive.tip.qld.gov.au/index.html#!/login"
+        },  
+        {
+            "cat": "work/products",
             "text": "Carbon Black",
             //"icon": "fas fa-shield-alt",
             "link": "https://cbawl.premiers.qld.gov.au/Dashboard/Dashboard/Dashboard.aspx"
