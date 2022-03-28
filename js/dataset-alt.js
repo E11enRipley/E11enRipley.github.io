@@ -137,13 +137,13 @@ dataset = {
         },
         {
             "cat": "threatintel",
-            "text": "Phonebook (domain ctcs)",
+            "text": "Phonebook (Domain Ctcs)",
             //"icon": "fas fa-search",
             "link": "https://phonebook.cz/"
         },
         {
             "cat": "threatintel",
-            "text": "Hunter (domain ctcs)",
+            "text": "Hunter (Domain Ctcs)",
             //"icon": "fas fa-search",
             "link": "https://hunter.io/"
         },
