@@ -250,12 +250,7 @@ dataset = {
             //"icon": "fas fa-key",
             "link": "https://www.useapassphrase.com/"
         },
-         {
-            "cat": "security",
-            "text": "HIBP",
-            //"icon": "fas fa-key",
-            "link": "https://haveibeenpwned.com/"
-         },
+
 
 
                 ////////////////////////////////////////
