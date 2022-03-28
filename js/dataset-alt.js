@@ -64,6 +64,12 @@ dataset = {
         },
         {
             "cat": "news",
+            "text": "ThreatABLE",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://www.threatable.io/"
+        },
+        {
+            "cat": "news",
             "text": "Feedly",
             //"icon": "fas fa-rss",
             "link": "https://feedly.com/i/my"
