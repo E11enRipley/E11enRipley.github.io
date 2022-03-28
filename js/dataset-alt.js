@@ -102,6 +102,81 @@ dataset = {
 
 
         ////////////////////////////////////////
+        //threat intelligence
+
+
+        {
+            "cat": "threatintel",
+            "text": "ThreatCloud",
+            //"icon": "fab fa-searchengin",
+            "link": "https://www.threatcrowd.org/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "PulseDive",
+            //"icon": "fas fa-search",
+            "link": "https://pulsedive.com/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "IntelligenceX",
+            //"icon": "fas fa-search",
+            "link": "https://intelx.io/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Reposify (AtkSfc)",
+            //"icon": "fas fa-search",
+            "link": "https://reposify.com/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Full Hunt (AtkSfc)",
+            //"icon": "fas fa-search",
+            "link": "https://fullhunt.io/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Phonebook (url contacts)",
+            //"icon": "fas fa-search",
+            "link": "https://phonebook.cz/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Hunter (domain contacts)",
+            //"icon": "fas fa-search",
+            "link": "https://hunter.io/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "IDE & Paste search",
+            //"icon": "fas fa-search",
+            "link": "https://redhuntlabs.com/online-ide-search"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Onyphe Cyber Defense",
+            //"icon": "fas fa-search",
+            "link": "https://www.onyphe.io/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "SynapsInt (OSINT)",
+            //"icon": "fas fa-search",
+            "link": "https://synapsint.com/"
+        },
+
+        {
+            "cat": "threatintel",
+            "text": "SOCRadar",
+            //"icon": "fas fa-search",
+            "link": "https://socradar.io/"
+        },
+
+
+
+
+       ////////////////////////////////////////
         //hunting
 
         {
@@ -151,6 +226,18 @@ dataset = {
             "text": "Shodan",
             //"icon": "fas fa-search",
             "link": "https://www.shodan.io/"
+        },
+        {
+            "cat": "hunting",
+            "text": "IVRE (Ntwk recon)",
+            //"icon": "fas fa-search",
+            "link": "https://ivre.rocks/"
+        },
+        {
+            "cat": "hunting",
+            "text": "Wigle.net (Ntwk recon)",
+            //"icon": "fas fa-search",
+            "link": "https://wigle.net/"
         },
 
 
@@ -286,6 +373,12 @@ dataset = {
         },
         {
             "cat": "ip/dns",
+            "text": "DNS Dumpster",
+            //"icon": "fas fa-search-location",
+            "link": "https://dnsdumpster.com/"
+        },
+        {
+            "cat": "ip/dns",
             "text": "Symantec IP Reputation",
             //"icon": "fas fa-search-location",
             "link": "https://ipremoval.sms.symantec.com/lookup"
@@ -318,49 +411,55 @@ dataset = {
                 ////////////////////////////////////////
         //work
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "The Hive",
             //"icon": "fas fa-shield-alt",
             "link": "https://hive.tip.qld.gov.au/index.html#!/login"
         },  
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "Carbon Black",
             //"icon": "fas fa-shield-alt",
             "link": "https://cbawl.premiers.qld.gov.au/Dashboard/Dashboard/Dashboard.aspx"
         },
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "zScaler",
             //"icon": "fas fa-shield-alt",
             "link": "https://admin.zscalertwo.net/#dashboard/1"
         },
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "ProofPoint",
             //"icon": "fas fa-fish",
             "link": "https://premiersqld.securityeducation.com/"
         },
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "Splunk",
             //"icon": "fas fa-search",
             "link": "https://splunk.qgs.qld.gov.au/"
-        },       
+        },
         {
-            "cat": "work/tools",
+            "cat": "tools",
+            "text": "Public source code search",
+            //"icon": "fas fa-search",
+            "link": "https://publicwww.com/"
+        },
+        {
+            "cat": "tools",
             "text": "Awesome TechStack",
             //"icon": "fas fa-building",
             "link": "https://awesometechstack.com/"
         },        
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "Built With",
             //"icon": "fas fa-building",
             "link": "https://builtwith.com/"
         },        
         {
-            "cat": "work/tools",
+            "cat": "tools",
             "text": "Site Report",
             //"icon": "fas fa-building",
             "link": "https://sitereport.netcraft.com/"
