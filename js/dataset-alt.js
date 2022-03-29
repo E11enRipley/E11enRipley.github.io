@@ -193,12 +193,6 @@ dataset = {
         },
         {
             "cat": "hunting",
-            "text": "Message Analyzer",
-            //"icon": "fab fa-microsoft",
-            "link": "https://mha.azurewebsites.net/"
-        },
-        {
-            "cat": "hunting",
             "text": "ThreatCloud",
             //"icon": "fab fa-searchengin",
             "link": "https://www.threatcrowd.org/"
@@ -243,6 +237,12 @@ dataset = {
 
         ////////////////////////////////////////
         //malware
+        {
+            "cat": "malware analysis",
+            "text": "Message Analyzer",
+            //"icon": "fab fa-microsoft",
+            "link": "https://mha.azurewebsites.net/"
+        },
         {
             "cat": "malware analysis",
             "text": "any.run",
@@ -373,7 +373,7 @@ dataset = {
         },
         {
             "cat": "ip/dns",
-            "text": "DNS Dumpster (DNS recon)",
+            "text": "DNS Dumpster (DNS Recon)",
             //"icon": "fas fa-search-location",
             "link": "https://dnsdumpster.com/"
         },
