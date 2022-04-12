@@ -70,6 +70,12 @@ dataset = {
         },
         {
             "cat": "news",
+            "text": "Krebs",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://krebsonsecurity.com/"
+        },
+        {
+            "cat": "news",
             "text": "Feedly",
             //"icon": "fas fa-rss",
             "link": "https://feedly.com/i/my"
