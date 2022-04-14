@@ -88,7 +88,7 @@ dataset = {
         },
         {
             "cat": "news",
-            "text": "brisbanetimes.com.au",
+            "text": "Brisbanetimes",
             //"icon": "fas fa-newspaper ",
             "link": "https://www.brisbanetimes.com.au/"
         },
