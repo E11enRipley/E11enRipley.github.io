@@ -14,7 +14,7 @@ dataset = {
             "link":"https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/microsoft.securityinsightsarg%2Fsentinel"
         },
         {   "cat": "microsoft", 
-            "text":"Cloud App Security", 
+            "text":"MCAS", 
             //"icon":"fab fa-microsoft", 
             "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
@@ -24,12 +24,12 @@ dataset = {
             "link":"https://protection.office.com/homepage"
         },
         {   "cat": "microsoft", 
-            "text":"Defender ATP", 
+            "text":"Defender", 
             //"icon":"fab fa-microsoft", 
             "link":"https://securitycenter.windows.com/dashboard"
         },
         {   "cat": "microsoft", 
-            "text":"Exchange Online", 
+            "text":"EXO", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/homepage"
         },
@@ -39,7 +39,7 @@ dataset = {
             "link":"https://endpoint.microsoft.com/#home"
         },
         {   "cat": "microsoft", 
-            "text":"MS Admin portal", 
+            "text":"MSAdm", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.microsoft.com/AdminPortal/Home?#/homepage"
         },
