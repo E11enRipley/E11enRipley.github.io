@@ -448,7 +448,7 @@ dataset = {
         },
         {
             "cat": "tools",
-            "text": "Public source code search",
+            "text": "Public source code srch",
             //"icon": "fas fa-search",
             "link": "https://publicwww.com/"
         },
