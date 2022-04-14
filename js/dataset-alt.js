@@ -19,7 +19,7 @@ dataset = {
             "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
         {   "cat": "microsoft", 
-            "text":"Security & Compliance", 
+            "text":"Sec & Comp.", 
             //"icon":"fab fa-microsoft", 
             "link":"https://protection.office.com/homepage"
         },
