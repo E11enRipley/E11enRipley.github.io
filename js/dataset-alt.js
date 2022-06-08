@@ -34,6 +34,11 @@ dataset = {
             "link":"https://admin.exchange.microsoft.com/#/homepage"
         },
         {   "cat": "microsoft", 
+            "text":"Transport Rule Details", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://admin.exchange.microsoft.com/#/reports/transportruledetails"
+        },
+        {   "cat": "microsoft", 
             "text":"Intune", 
             //"icon":"fab fa-microsoft", 
             "link":"https://endpoint.microsoft.com/#home"
