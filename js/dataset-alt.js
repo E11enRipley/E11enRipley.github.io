@@ -364,6 +364,12 @@ dataset = {
         },
         {
             "cat": "ip/dns",
+            "text": "Netify",
+            //"icon": "fas fa-search-location",
+            "link": "https://www.netify.ai/"
+        },
+        {
+            "cat": "ip/dns",
             "text": "IP Toolbox",
             //"icon": "fas fa-search-location",
             "link": "https://mxtoolbox.com/SuperTool.aspx"
