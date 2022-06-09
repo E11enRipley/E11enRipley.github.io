@@ -51,8 +51,6 @@ dataset = {
 
 
         
-
-
         ////////////////////////////////////////
         //news
         {
@@ -557,6 +555,12 @@ dataset = {
 
         ////////////////////////////////////////
         //learning
+        {
+            "cat": "learning",
+            "text": "ISACA",
+            //"icon": "fas fa-chalkboard-teacher",
+            "link": "https://www.isaca.org/"
+        },
         {
             "cat": "learning",
             "text": "Cybrary",
