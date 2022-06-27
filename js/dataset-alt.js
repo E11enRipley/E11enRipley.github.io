@@ -569,6 +569,12 @@ dataset = {
         },
         {
             "cat": "learning",
+            "text": "AttackIQ",
+            //"icon": "fas fa-chalkboard-teacher",
+            "link": "https://academy.attackiq.com/"
+        },
+        {
+            "cat": "learning",
             "text": "Cybrary",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://www.cybrary.it/login/"
