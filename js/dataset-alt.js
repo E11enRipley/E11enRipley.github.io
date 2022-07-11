@@ -67,6 +67,13 @@ dataset = {
         },
         {
             "cat": "news",
+            "text": "Bleeping Computer",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://www.bleepingcomputer.com/"
+        },
+
+        {
+            "cat": "news",
             "text": "ThreatABLE",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.threatable.io/"
