@@ -312,7 +312,7 @@ dataset = {
         //security
         {
             "cat": "security",
-            "text": "SANS BlueTeam",
+            "text": "SANS Defense",
             //"icon": "fas fa-newspaper",
             "link": "https://wiki.sans.blue/#!index.md"
         },
