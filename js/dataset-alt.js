@@ -71,7 +71,6 @@ dataset = {
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.bleepingcomputer.com/"
         },
-
         {
             "cat": "news",
             "text": "ThreatABLE",
@@ -311,6 +310,12 @@ dataset = {
 
                 ////////////////////////////////////////
         //security
+        {
+            "cat": "security",
+            "text": "SANS BlueTeam",
+            //"icon": "fas fa-newspaper",
+            "link": "https://wiki.sans.blue/#!index.md"
+        },
         {
             "cat": "security",
             "text": "FireEye",
