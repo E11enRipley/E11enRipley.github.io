@@ -202,6 +202,12 @@ dataset = {
         },
         {
             "cat": "hunting",
+            "text": "PhishCheck",
+            //"icon": "fas fa-search-location",
+            "link": "https://phishcheck.me/"
+        },
+        {
+            "cat": "hunting",
             "text": "Cyber Chef",
             //"icon": "fab fa-elementor",
             "link": "https://gchq.github.io/CyberChef/"
