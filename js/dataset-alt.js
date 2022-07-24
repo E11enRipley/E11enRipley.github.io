@@ -296,6 +296,12 @@ dataset = {
         },
         {
             "cat": "malware analysis",
+            "text": "REString JS deobf.",
+            //"icon": "fas fa-spider",
+            "link": "https://restringer.tech/"
+        },
+        {
+            "cat": "malware analysis",
             "text": "URLHaus.abuse",
             //"icon": "fas fa-spider",
             "link": "https://urlhaus.abuse.ch/browse/"
