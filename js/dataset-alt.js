@@ -24,6 +24,11 @@ dataset = {
             "link":"https://protection.office.com/homepage"
         },
         {   "cat": "microsoft", 
+            "text":"Defender for Cloud", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0"
+    },
+        {   "cat": "microsoft", 
             "text":"Defender", 
             //"icon":"fab fa-microsoft", 
             "link":"https://securitycenter.windows.com/dashboard"
