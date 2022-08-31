@@ -4,6 +4,11 @@ dataset = {
         ////////////////////////////////////////
         //microsoft
         {   "cat": "microsoft", 
+        "text":"Portals", 
+        //"icon":"fab fa-microsoft", 
+        "link":"https://msportals.io/"
+        },
+        {   "cat": "microsoft", 
             "text":"Azure", 
             //"icon":"fab fa-microsoft", 
             "link":"https://portal.azure.com"
