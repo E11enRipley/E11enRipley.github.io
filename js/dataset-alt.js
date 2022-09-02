@@ -4,9 +4,9 @@ dataset = {
         ////////////////////////////////////////
         //microsoft
         {   "cat": "microsoft", 
-        "text":"Portals", 
-        //"icon":"fab fa-microsoft", 
-        "link":"https://msportals.io/"
+            "text":"Portals", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://msportals.io/"
         },
         {   "cat": "microsoft", 
             "text":"Azure", 
@@ -24,9 +24,9 @@ dataset = {
             "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
         {   "cat": "microsoft", 
-            "text":"Sec & Comp.", 
+            "text":"Compliance/Purview", 
             //"icon":"fab fa-microsoft", 
-            "link":"https://protection.office.com/homepage"
+            "link":"https://compliance.microsoft.com"
         },
         {   "cat": "microsoft", 
             "text":"Defender for Cloud", 
