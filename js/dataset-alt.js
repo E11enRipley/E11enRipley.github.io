@@ -24,6 +24,11 @@ dataset = {
             "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
         {   "cat": "microsoft", 
+            "text":"Security/Protection", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://protection.office.com/homepage"
+        },
+        {   "cat": "microsoft", 
             "text":"Compliance/Purview", 
             //"icon":"fab fa-microsoft", 
             "link":"https://compliance.microsoft.com"
@@ -80,6 +85,12 @@ dataset = {
             "text": "Bleeping Computer",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.bleepingcomputer.com/"
+        },
+        {
+            "cat": "news",
+            "text": "DFIR Report",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://thedfirreport.com/"
         },
         {
             "cat": "news",
