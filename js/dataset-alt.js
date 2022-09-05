@@ -439,7 +439,7 @@ dataset = {
         },
         {
             "cat": "ip/dns",
-            "text": "DNS Dumpster (DNS recon)",
+            "text": "DNS Dumpster (recon)",
             //"icon": "fas fa-search-location",
             "link": "https://dnsdumpster.com/"
         },
