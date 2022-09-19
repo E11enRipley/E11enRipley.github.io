@@ -229,6 +229,12 @@ dataset = {
         },
         {
             "cat": "hunting",
+            "text": "WannaBrowser",
+            //"icon": "fas fa-search-location",
+            "link": "https://www.wannabrowser.net/"
+        },
+        {
+            "cat": "hunting",
             "text": "Cyber Chef",
             //"icon": "fab fa-elementor",
             "link": "https://gchq.github.io/CyberChef/"
