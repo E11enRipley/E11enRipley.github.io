@@ -201,7 +201,6 @@ dataset = {
             //"icon": "fas fa-search",
             "link": "https://synapsint.com/"
         },
-
         {
             "cat": "threatintel",
             "text": "SOCRadar",
@@ -214,12 +213,17 @@ dataset = {
 
        ////////////////////////////////////////
         //hunting
-
         {
             "cat": "hunting",
-            "text": "urlscan.io",
-            //"icon": "fas fa-search-location",
-            "link": "https://urlscan.io/"
+            "text": "Darkfeed",
+            //"icon": "fab fa-searchengin",
+            "link": "https://darkfeed.io/"
+        },
+        {
+            "cat": "hunting",
+            "text": "Breached",
+            //"icon": "fas fa-search",
+            "link": "https://breached.to/"
         },
         {
             "cat": "hunting",
@@ -238,12 +242,6 @@ dataset = {
             "text": "Cyber Chef",
             //"icon": "fab fa-elementor",
             "link": "https://gchq.github.io/CyberChef/"
-        },
-        {
-            "cat": "hunting",
-            "text": "ThreatCloud",
-            //"icon": "fab fa-searchengin",
-            "link": "https://www.threatcrowd.org/"
         },
         {
             "cat": "hunting",
@@ -285,6 +283,12 @@ dataset = {
 
         ////////////////////////////////////////
         //malware
+        {
+            "cat": "malware analysis",
+            "text": "urlscan.io",
+            //"icon": "fas fa-search-location",
+            "link": "https://urlscan.io/"
+        },
         {
             "cat": "malware analysis",
             "text": "Message Analyzer",
@@ -511,12 +515,6 @@ dataset = {
             "text": "Splunk",
             //"icon": "fas fa-search",
             "link": "https://splunk.qgs.qld.gov.au/"
-        },
-        {
-            "cat": "tools",
-            "text": "Breached",
-            //"icon": "fas fa-search",
-            "link": "https://breached.to/"
         },
         {
             "cat": "tools",
