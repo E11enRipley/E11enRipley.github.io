@@ -317,7 +317,7 @@ dataset = {
         },
         {
             "cat": "Tools",
-            "text": "CRXcavator (ext tst)",
+            "text": "CRXcavator (Extn Tst)",
             //"icon": "fas fa-search",
             "link": "https://crxcavator.io/"
         },
@@ -344,6 +344,12 @@ dataset = {
             "text": "Site Report",
             //"icon": "fas fa-building",
             "link": "https://sitereport.netcraft.com/"
+        }, 
+        {
+            "cat": "Tools",
+            "text": "Offensive cheat sheets",
+            //"icon": "fas fa-building",
+            "link": "https://cheatsheet.haax.fr/"
         }, 
 
         ////////////////////////////////////////
@@ -591,7 +597,7 @@ dataset = {
             //"icon": "fas fa-tasks",
             "link": "https://keep.google.com/"
         },
-        
+
         ////////////////////////////////////////
         //learning
         {
