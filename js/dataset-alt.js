@@ -348,62 +348,62 @@ dataset = {
 
         ////////////////////////////////////////
         //microsoft
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Portals", 
             //"icon":"fab fa-microsoft", 
             "link":"https://msportals.io/"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Azure", 
             //"icon":"fab fa-microsoft", 
             "link":"https://portal.azure.com"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Sentinel", 
             //"icon":"fab fa-microsoft", 
             "link":"https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/microsoft.securityinsightsarg%2Fsentinel"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"MCAS", 
             //"icon":"fab fa-microsoft", 
             "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Security/Protection", 
             //"icon":"fab fa-microsoft", 
             "link":"https://protection.office.com/homepage"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Compliance/Purview", 
             //"icon":"fab fa-microsoft", 
             "link":"https://compliance.microsoft.com"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Defender for Cloud", 
             //"icon":"fab fa-microsoft", 
             "link":"https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Defender", 
             //"icon":"fab fa-microsoft", 
             "link":"https://securitycenter.windows.com/dashboard"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"EXO", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/homepage"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Transport Rule Details", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/reports/transportruledetails"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"Intune", 
             //"icon":"fab fa-microsoft", 
             "link":"https://endpoint.microsoft.com/#home"
         },
-        {   "cat": "microsoft", 
+        {   "cat": "Microsoft", 
             "text":"MSAdm", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.microsoft.com/AdminPortal/Home?#/homepage"
@@ -412,61 +412,61 @@ dataset = {
         ////////////////////////////////////////
         //security
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "MITRE Att&ck",
             //"icon": "fas fa-newspaper",
             "link": "https://attack.mitre.org/"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "SANS Defense",
             //"icon": "fas fa-newspaper",
             "link": "https://wiki.sans.blue/#!index.md"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "FireEye",
             //"icon": "fas fa-newspaper",
             "link": "https://www.fireeye.com/blog.html"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "MailGuard",
             //"icon": "fas fa-newspaper",
             "link": "https://www.mailguard.com.au/blog"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "ACSC",
             //"icon": "fas fa-user-secret",
             "link": "https://www.cyber.gov.au/"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "ACSC Essential 8",
             //"icon": "fas fa-user-secret",
             "link": "https://www.cyber.gov.au/publications/essential-eight-maturity-model"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "CYWARE",
             //"icon": "fas fa-newspaper",
             "link": "https://cyware.com/cyber-security-news-articles"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "Naked Security",
             //"icon": "fas fa-newspaper",
             "link": "https://nakedsecurity.sophos.com/"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "Use a passphrase",
             //"icon": "fas fa-key",
             "link": "https://www.useapassphrase.com/"
         },
         {
-            "cat": "security",
+            "cat": "Security",
             "text": "HIBP",
             //"icon": "fas fa-key",
             "link": "https://haveibeenpwned.com/"
@@ -475,49 +475,49 @@ dataset = {
          ////////////////////////////////////////
         //google
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Messages",
             //"icon": "fas fa-sms",
             "link": "https://messages.google.com/"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Gmail",
             //"icon": "fas fa-envelope",
             "link": "https://mail.google.com/mail/u/0/"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Calendar",
             //"icon": "far fa-calendar",
             "link": "https://calendar.google.com/calendar/r?pli=1"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Hangouts",
             //"icon": "far fa-comments",
             "link": "https://hangouts.google.com/"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Photos",
             //"icon": "fas fa-camera-retro",
             "link": "https://photos.google.com/"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Podcasts",
             //"icon": "fas fa-podcast",
             "link": "https://podcasts.google.com/"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Drive",
             //"icon": "fab fa-google-drive",
             "link": "https://drive.google.com/"
         },
         {
-            "cat": "google",
+            "cat": "Google",
             "text": "Keep",
             //"icon": "fas fa-tasks",
             "link": "https://keep.google.com/"
@@ -526,67 +526,67 @@ dataset = {
         ////////////////////////////////////////
         //news
         {
-            "cat": "news",
+            "cat": "News",
             "text": "Threatpost",
             //"icon": "fas fa-newspaper",
             "link": "https://threatpost.com/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "Hacker News",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://thehackernews.com/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "Bleeping Computer",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.bleepingcomputer.com/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "DFIR Report",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://thedfirreport.com/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "ThreatABLE",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.threatable.io/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "Krebs",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://krebsonsecurity.com/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "Feedly",
             //"icon": "fas fa-rss",
             "link": "https://feedly.com/i/my"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "news.com.au",
             //"icon": "fas fa-newspaper ",
             "link": "https://www.news.com.au"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "Brisbanetimes",
             //"icon": "fas fa-newspaper ",
             "link": "https://www.brisbanetimes.com.au/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "itnews.com.au",
             //"icon": "fas fa-newspaper ",
             "link": "https://www.itnews.com.au/"
         },
         {
-            "cat": "news",
+            "cat": "News",
             "text": "abc.net.au",
             //"icon": "fas fa-newspaper ",
             "link": "https://www.abc.net.au/news"
@@ -595,49 +595,49 @@ dataset = {
         ////////////////////////////////////////
         //learning
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "ISACA",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://www.isaca.org/"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "AttackIQ",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://academy.attackiq.com/"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "Cybrary",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://www.cybrary.it/login/"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "Udemy",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://www.udemy.com/"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "awesome-security",
             //"icon": "fab fa-github",
             "link": "https://github.com/sbilly/awesome-security"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "isc2 (cissp)",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://learn.isc2.org/d2l/home"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "pluralsight",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://app.pluralsight.com"
         },
         {
-            "cat": "learning",
+            "cat": "Learning",
             "text": "Blue Team Labs",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://blueteamlabs.online/"
@@ -646,27 +646,33 @@ dataset = {
         ////////////////////////////////////////
         //social
         {
-            "cat": "social",
+            "cat": "Social",
             "text": "Twitter",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://twitter.com/"
         },
         {
-            "cat": "social",
+            "cat": "Social",
             "text": "Reddit",
             //"icon": "fab fa-reddit-alien  fa-2x'></i>",
             "link": "https://old.reddit.com/new"
         },
         {
-            "cat": "social",
+            "cat": "Social",
             "text": "FaceBook",
             //"icon": "fab fa-facebook-f  fa-2x'></i>",
             "link": "https://www.facebook.com"
         },
         {
-            "cat": "social",
+            "cat": "Social",
             "text": "LinkedIn",
             //"icon": "fab fa-linkedin  fa-2x'></i>",
             "link": "https://www.linkedin.com.au"
-        },        
+        },
+        {
+            "cat": "Social",
+            "text": "Mastodon",
+            //"icon": "fab fa-linkedin  fa-2x'></i>",
+            "link": "https://mastodon.online/explore"
+        },      
 ]};
