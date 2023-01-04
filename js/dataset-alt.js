@@ -70,9 +70,6 @@ dataset = {
             "link": "https://socradar.io/"
         },
 
-
-
-
        ////////////////////////////////////////
         //hunting
         {
@@ -141,7 +138,6 @@ dataset = {
             //"icon": "fas fa-search",
             "link": "https://wigle.net/"
         },
-
 
         ////////////////////////////////////////
         //malware
@@ -645,7 +641,7 @@ dataset = {
             "text": "Blue Team Labs",
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://blueteamlabs.online/"
-        }
+        },
 
         ////////////////////////////////////////
         //social
