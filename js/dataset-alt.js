@@ -518,6 +518,12 @@ dataset = {
         },
         {
             "cat": "tools",
+            "text": "CRXcavator (ext tst)",
+            //"icon": "fas fa-search",
+            "link": "https://crxcavator.io/"
+        },
+        {
+            "cat": "tools",
             "text": "Public source code srch",
             //"icon": "fas fa-search",
             "link": "https://publicwww.com/"
@@ -671,5 +677,4 @@ dataset = {
             "link": "https://blueteamlabs.online/"
         }
         
-
 ]};
