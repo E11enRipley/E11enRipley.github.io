@@ -217,67 +217,67 @@ dataset = {
         ////////////////////////////////////////
         //IP/DNS
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "IP Info",
             //"icon": "fas fa-search-location",
             "link": "https://ipinfo.io/"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Netify",
             //"icon": "fas fa-search-location",
             "link": "https://www.netify.ai/"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "IP Toolbox",
             //"icon": "fas fa-search-location",
             "link": "https://mxtoolbox.com/SuperTool.aspx"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Greynoise",
             //"icon": "fas fa-spider",
             "link": "https://www.greynoise.io"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Spamhaus",
             //"icon": "fas fa-search-location",
             "link": "https://check.spamhaus.org/"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "DNS Dumpster (recon)",
             //"icon": "fas fa-search-location",
             "link": "https://dnsdumpster.com/"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Symantec IP Reputation",
             //"icon": "fas fa-search-location",
             "link": "https://ipremoval.sms.symantec.com/lookup"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Talos Intelligence",
             //"icon": "fas fa-search-location",
             "link": "https://talosintelligence.com/"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "DNS Twister",
             //"icon": "fas fa-search-location",
             "link": "https://dnstwister.report/"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Domain Dossier",
             //"icon": "fas fa-search-location",
             "link": "https://centralops.net/co/DomainDossier.aspx"
         },
         {
-            "cat": "ip/dns",
+            "cat": "IP/DNS",
             "text": "Hacker Target",
             //"icon": "fas fa-search-location",
             "link": "https://hackertarget.com/ip-tools/"
@@ -286,61 +286,61 @@ dataset = {
         ////////////////////////////////////////
         //work tools
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "The Hive",
             //"icon": "fas fa-shield-alt",
             "link": "https://hive.tip.qld.gov.au/index.html#!/login"
         },  
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "Carbon Black",
             //"icon": "fas fa-shield-alt",
             "link": "https://cbawl.premiers.qld.gov.au/Dashboard/Dashboard/Dashboard.aspx"
         },
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "zScaler",
             //"icon": "fas fa-shield-alt",
             "link": "https://admin.zscalertwo.net/#dashboard/1"
         },
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "ProofPoint",
             //"icon": "fas fa-fish",
             "link": "https://premiersqld.securityeducation.com/"
         },
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "Splunk",
             //"icon": "fas fa-search",
             "link": "https://splunk.qgs.qld.gov.au/"
         },
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "CRXcavator (ext tst)",
             //"icon": "fas fa-search",
             "link": "https://crxcavator.io/"
         },
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "Public source code srch",
             //"icon": "fas fa-search",
             "link": "https://publicwww.com/"
         },
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "Awesome TechStack",
             //"icon": "fas fa-building",
             "link": "https://awesometechstack.com/"
         },        
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "Built With",
             //"icon": "fas fa-building",
             "link": "https://builtwith.com/"
         },        
         {
-            "cat": "tools",
+            "cat": "Tools",
             "text": "Site Report",
             //"icon": "fas fa-building",
             "link": "https://sitereport.netcraft.com/"
