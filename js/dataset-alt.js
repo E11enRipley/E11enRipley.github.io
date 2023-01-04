@@ -284,43 +284,49 @@ dataset = {
         ////////////////////////////////////////
         //malware
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "urlscan.io",
             //"icon": "fas fa-search-location",
             "link": "https://urlscan.io/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Message Analyzer",
             //"icon": "fab fa-microsoft",
             "link": "https://mha.azurewebsites.net/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
+            "text": "Filescan.io",
+            //"icon": "fab fa-microsoft",
+            "link": "https://www.filescan.io/scan"
+        },
+        {
+            "cat": "analysis",
             "text": "any.run",
             //"icon": "fas fa-spider",
             "link": "https://app.any.run/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Triage",
             //"icon": "fas fa-spider",
             "link": "https://tria.ge/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Joe Sandbox",
             //"icon": "fas fa-spider",
             "link": "https://www.joesandbox.com/#windows"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Hybrid Analysis",
             //"icon": "fas fa-spider",
             "link": "https://www.hybrid-analysis.com/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Virus Total",
             //"icon": "fas fa-spider",
             "link": "https://www.virustotal.com/gui/home/upload"
