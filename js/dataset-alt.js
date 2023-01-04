@@ -472,57 +472,6 @@ dataset = {
             "link": "https://haveibeenpwned.com/"
         },
 
-         ////////////////////////////////////////
-        //google
-        {
-            "cat": "Google",
-            "text": "Messages",
-            //"icon": "fas fa-sms",
-            "link": "https://messages.google.com/"
-        },
-        {
-            "cat": "Google",
-            "text": "Gmail",
-            //"icon": "fas fa-envelope",
-            "link": "https://mail.google.com/mail/u/0/"
-        },
-        {
-            "cat": "Google",
-            "text": "Calendar",
-            //"icon": "far fa-calendar",
-            "link": "https://calendar.google.com/calendar/r?pli=1"
-        },
-        {
-            "cat": "Google",
-            "text": "Hangouts",
-            //"icon": "far fa-comments",
-            "link": "https://hangouts.google.com/"
-        },
-        {
-            "cat": "Google",
-            "text": "Photos",
-            //"icon": "fas fa-camera-retro",
-            "link": "https://photos.google.com/"
-        },
-        {
-            "cat": "Google",
-            "text": "Podcasts",
-            //"icon": "fas fa-podcast",
-            "link": "https://podcasts.google.com/"
-        },
-        {
-            "cat": "Google",
-            "text": "Drive",
-            //"icon": "fab fa-google-drive",
-            "link": "https://drive.google.com/"
-        },
-        {
-            "cat": "Google",
-            "text": "Keep",
-            //"icon": "fas fa-tasks",
-            "link": "https://keep.google.com/"
-        },
-
         ////////////////////////////////////////
         //news
         {
@@ -591,7 +540,58 @@ dataset = {
             //"icon": "fas fa-newspaper ",
             "link": "https://www.abc.net.au/news"
         },
-
+        
+        ////////////////////////////////////////
+        //google
+        {
+            "cat": "Google",
+            "text": "Messages",
+            //"icon": "fas fa-sms",
+            "link": "https://messages.google.com/"
+        },
+        {
+            "cat": "Google",
+            "text": "Gmail",
+            //"icon": "fas fa-envelope",
+            "link": "https://mail.google.com/mail/u/0/"
+        },
+        {
+            "cat": "Google",
+            "text": "Calendar",
+            //"icon": "far fa-calendar",
+            "link": "https://calendar.google.com/calendar/r?pli=1"
+        },
+        {
+            "cat": "Google",
+            "text": "Hangouts",
+            //"icon": "far fa-comments",
+            "link": "https://hangouts.google.com/"
+        },
+        {
+            "cat": "Google",
+            "text": "Photos",
+            //"icon": "fas fa-camera-retro",
+            "link": "https://photos.google.com/"
+        },
+        {
+            "cat": "Google",
+            "text": "Podcasts",
+            //"icon": "fas fa-podcast",
+            "link": "https://podcasts.google.com/"
+        },
+        {
+            "cat": "Google",
+            "text": "Drive",
+            //"icon": "fab fa-google-drive",
+            "link": "https://drive.google.com/"
+        },
+        {
+            "cat": "Google",
+            "text": "Keep",
+            //"icon": "fas fa-tasks",
+            "link": "https://keep.google.com/"
+        },
+        
         ////////////////////////////////////////
         //learning
         {
