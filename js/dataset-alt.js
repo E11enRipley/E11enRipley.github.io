@@ -142,73 +142,73 @@ dataset = {
         ////////////////////////////////////////
         //malware
         {
-            "cat": "analysis",
-            "text": "urlscan.io",
-            //"icon": "fas fa-search-location",
-            "link": "https://urlscan.io/"
-        },
-        {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Message Analyzer",
             //"icon": "fab fa-microsoft",
             "link": "https://mha.azurewebsites.net/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
+            "text": "urlscan.io",
+            //"icon": "fas fa-search-location",
+            "link": "https://urlscan.io/"
+        },
+        {
+            "cat": "Analysis",
             "text": "Filescan.io",
             //"icon": "fab fa-microsoft",
             "link": "https://www.filescan.io/scan"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "any.run",
             //"icon": "fas fa-spider",
             "link": "https://app.any.run/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Triage",
             //"icon": "fas fa-spider",
             "link": "https://tria.ge/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Joe Sandbox",
             //"icon": "fas fa-spider",
             "link": "https://www.joesandbox.com/#windows"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Hybrid Analysis",
             //"icon": "fas fa-spider",
             "link": "https://www.hybrid-analysis.com/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Virus Total",
             //"icon": "fas fa-spider",
             "link": "https://www.virustotal.com/gui/home/upload"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "REString JS deobf.",
             //"icon": "fas fa-spider",
             "link": "https://restringer.tech/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "URLHaus.abuse",
             //"icon": "fas fa-spider",
             "link": "https://urlhaus.abuse.ch/browse/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Cuckoo",
             //"icon": "fas fa-spider",
             "link": "https://sandbox.pikker.ee/"
         },
         {
-            "cat": "analysis",
+            "cat": "Analysis",
             "text": "Intezer",
             //"icon": "fas fa-spider",
             "link": "https://analyze.intezer.com/"
