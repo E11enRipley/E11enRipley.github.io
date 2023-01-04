@@ -190,25 +190,25 @@ dataset = {
             "link": "https://www.virustotal.com/gui/home/upload"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "REString JS deobf.",
             //"icon": "fas fa-spider",
             "link": "https://restringer.tech/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "URLHaus.abuse",
             //"icon": "fas fa-spider",
             "link": "https://urlhaus.abuse.ch/browse/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Cuckoo",
             //"icon": "fas fa-spider",
             "link": "https://sandbox.pikker.ee/"
         },
         {
-            "cat": "malware analysis",
+            "cat": "analysis",
             "text": "Intezer",
             //"icon": "fas fa-spider",
             "link": "https://analyze.intezer.com/"
@@ -382,7 +382,7 @@ dataset = {
             "text":"Defender for Cloud", 
             //"icon":"fab fa-microsoft", 
             "link":"https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0"
-    },
+        },
         {   "cat": "microsoft", 
             "text":"Defender", 
             //"icon":"fab fa-microsoft", 
@@ -409,7 +409,7 @@ dataset = {
             "link":"https://admin.microsoft.com/AdminPortal/Home?#/homepage"
         },
 
-       ////////////////////////////////////////
+        ////////////////////////////////////////
         //security
         {
             "cat": "security",
