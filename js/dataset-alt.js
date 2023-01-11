@@ -5,6 +5,12 @@ dataset = {
         //threat intelligence
         {
             "cat": "threatintel",
+            "text": "AlienVault",
+            //"icon": "fab fa-searchengin",
+            "link": "https://otx.alienvault.com/"
+        },
+        {
+            "cat": "threatintel",
             "text": "ThreatCloud",
             //"icon": "fab fa-searchengin",
             "link": "https://www.threatcrowd.org/"
