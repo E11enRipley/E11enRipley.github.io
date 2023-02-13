@@ -197,6 +197,12 @@ dataset = {
         },
         {
             "cat": "Analysis",
+            "text": "JS Fiddle",
+            //"icon": "fas fa-spider",
+            "link": "https://jsfiddle.net/"
+        },
+        {
+            "cat": "Analysis",
             "text": "REString JS deobf.",
             //"icon": "fas fa-spider",
             "link": "https://restringer.tech/"
