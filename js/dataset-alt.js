@@ -392,11 +392,6 @@ dataset = {
             "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
         {   "cat": "Microsoft", 
-            "text":"Security/Protection", 
-            //"icon":"fab fa-microsoft", 
-            "link":"https://protection.office.com/homepage"
-        },
-        {   "cat": "Microsoft", 
             "text":"Compliance/Purview", 
             //"icon":"fab fa-microsoft", 
             "link":"https://compliance.microsoft.com"
