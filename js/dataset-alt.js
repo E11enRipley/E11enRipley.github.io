@@ -443,6 +443,12 @@ dataset = {
         },
         {
             "cat": "Security",
+            "text": "Malcore Blog",
+            //"icon": "fas fa-newspaper",
+            "link": "https://blog.malcore.io/"
+        },
+        {
+            "cat": "Security",
             "text": "FireEye",
             //"icon": "fas fa-newspaper",
             "link": "https://www.fireeye.com/blog.html"
