@@ -518,6 +518,14 @@ dataset = {
         },
         {
             "cat": "News",
+            "text": "InfoSecurity Magazine",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://www.infosecurity-magazine.com/"
+        },
+
+        
+        {
+            "cat": "News",
             "text": "DFIR Report",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://thedfirreport.com/"
