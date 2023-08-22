@@ -350,13 +350,19 @@ dataset = {
             "text": "Built With",
             //"icon": "fas fa-building",
             "link": "https://builtwith.com/"
-        },        
+        }, 
+        {
+            "cat": "Tools",
+            "text": "Web Check",
+            //"icon": "fas fa-building",
+            "link": "https://web-check.as93.net/"
+        },       
         {
             "cat": "Tools",
             "text": "Site Report",
             //"icon": "fas fa-building",
             "link": "https://sitereport.netcraft.com/"
-        }, 
+        },
         {
             "cat": "Tools",
             "text": "Offensive cheat sheets",
