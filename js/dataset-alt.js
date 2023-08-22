@@ -432,6 +432,16 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.microsoft.com/AdminPortal/Home?#/homepage"
         },
+        {   "cat": "Microsoft", 
+            "text":"Azure Threat Research Matrix", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
+        },
+
+
+
+
+
 
         ////////////////////////////////////////
         //security
