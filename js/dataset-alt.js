@@ -437,12 +437,6 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
         },
-
-
-
-
-
-
         ////////////////////////////////////////
         //security
         {
@@ -450,6 +444,18 @@ dataset = {
             "text": "MITRE Att&ck",
             //"icon": "fas fa-newspaper",
             "link": "https://attack.mitre.org/"
+        },
+        {
+            "cat": "Security",
+            "text": "MITRE D3fend",
+            //"icon": "fas fa-newspaper",
+            "link": "https://d3fend.mitre.org/"
+        },
+        {
+            "cat": "Security",
+            "text": "RE&CT Framework",
+            //"icon": "fas fa-newspaper",
+            "link": "https://atc-project.github.io/atc-react/"
         },
         {
             "cat": "Security",
