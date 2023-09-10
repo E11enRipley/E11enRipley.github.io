@@ -250,7 +250,7 @@ dataset = {
             "cat": "IP/DNS",
             "text": "Greynoise",
             //"icon": "fas fa-spider",
-            "link": "https://www.greynoise.io"
+            "link": "https://viz.greynoise.io/"
         },
         {
             "cat": "IP/DNS",
