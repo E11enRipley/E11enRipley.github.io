@@ -294,7 +294,12 @@ dataset = {
             //"icon": "fas fa-search-location",
             "link": "https://hackertarget.com/ip-tools/"
         },
-
+        {
+            "cat": "IP/DNS",
+            "text": "DNS Checker",
+            //"icon": "fas fa-search-location",
+            "link": "https://dnschecker.org/"
+        },
         ////////////////////////////////////////
         //work tools
         {
