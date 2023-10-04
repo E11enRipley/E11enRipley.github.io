@@ -518,6 +518,12 @@ dataset = {
         },
         {
             "cat": "Security",
+            "text": "CyberScoop",
+            //"icon": "fas fa-newspaper",
+            "link": "https://cyberscoop.com//"
+        },
+        {
+            "cat": "Security",
             "text": "Use a passphrase",
             //"icon": "fas fa-key",
             "link": "https://www.useapassphrase.com/"
