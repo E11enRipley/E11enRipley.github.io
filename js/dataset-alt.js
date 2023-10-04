@@ -470,6 +470,12 @@ dataset = {
         },
         {
             "cat": "Security",
+            "text": "Malware News",
+            //"icon": "fas fa-newspaper",
+            "link": " https://malware.news/"
+        },
+        {
+            "cat": "Security",
             "text": "Malcore Blog",
             //"icon": "fas fa-newspaper",
             "link": "https://blog.malcore.io/"
