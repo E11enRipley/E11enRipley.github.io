@@ -304,6 +304,12 @@ dataset = {
         //work tools
         {
             "cat": "Tools",
+            "text": "Cloudflare Radar",
+            //"icon": "fas fa-shield-alt",
+            "link": "https://radar.cloudflare.com/"
+        },  
+        {
+            "cat": "Tools",
             "text": "The Hive",
             //"icon": "fas fa-shield-alt",
             "link": "https://hive.tip.qld.gov.au/index.html#!/login"
