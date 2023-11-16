@@ -92,6 +92,12 @@ dataset = {
         },
         {
             "cat": "hunting",
+            "text": "Huntress",
+            //"icon": "fas fa-search",
+            "link": "https://hunter.how/"
+        },
+        {
+            "cat": "hunting",
             "text": "PhishCheck",
             //"icon": "fas fa-search-location",
             "link": "https://phishcheck.me/"
