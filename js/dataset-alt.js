@@ -121,12 +121,6 @@ dataset = {
         },
         {
             "cat": "hunting",
-            "text": "PhishCheck",
-            //"icon": "fas fa-search-location",
-            "link": "https://phishcheck.me/"
-        },
-        {
-            "cat": "hunting",
             "text": "Shodan",
             //"icon": "fas fa-search",
             "link": "https://www.shodan.io/"
@@ -205,6 +199,12 @@ dataset = {
             "text": "Message Analyzer",
             //"icon": "fab fa-microsoft",
             "link": "https://mha.azurewebsites.net/"
+        },
+        {
+            "cat": "hunting",
+            "text": "PhishCheck",
+            //"icon": "fas fa-search-location",
+            "link": "https://phishcheck.me/"
         },
         {
             "cat": "Analysis",
