@@ -103,7 +103,13 @@ dataset = {
         },
         {
             "cat": "hunting",
-            "text": "Huntress",
+            "text": "FOFA",
+            //"icon": "fas fa-search",
+            "link": "https://en.fofa.info/"
+        },
+        {
+            "cat": "hunting",
+            "text": "Hunter",
             //"icon": "fas fa-search",
             "link": "https://hunter.how/"
         },
