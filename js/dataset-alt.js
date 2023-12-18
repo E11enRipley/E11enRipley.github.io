@@ -276,6 +276,12 @@ dataset = {
         },
         {
             "cat": "IP/DNS",
+            "text": "ICAAN gTLD search",
+            //"icon": "fas fa-search-location",
+            "link": "https://rdrs.icann.org/"
+        },
+        {
+            "cat": "IP/DNS",
             "text": "IP Info",
             //"icon": "fas fa-search-location",
             "link": "https://ipinfo.io/"
@@ -411,12 +417,22 @@ dataset = {
             "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
         },
         {   "cat": "Microsoft", 
+            "text":"Entra ID (AAD)", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
+        },
+
+
+
+
+
+        {   "cat": "Microsoft", 
             "text":"Intune", 
             //"icon":"fab fa-microsoft", 
             "link":"https://endpoint.microsoft.com/#home"
         },
         {   "cat": "Microsoft", 
-            "text":"Compliance/Purview", 
+            "text":"Purview (Compliance)", 
             //"icon":"fab fa-microsoft", 
             "link":"https://compliance.microsoft.com"
         },
@@ -425,20 +441,15 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://securitycenter.windows.com/dashboard"
         },
-        {   "cat": "Microsoft", 
-            "text":"Defender for Cloud", 
+        //{   "cat": "Microsoft", 
+            //"text":"Defender for Cloud", 
             //"icon":"fab fa-microsoft", 
-            "link":"https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0"
-        },
+            //"link":"https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0"
+        //},
         {   "cat": "Microsoft", 
             "text":"EXO", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/homepage"
-        },
-        {   "cat": "Microsoft", 
-            "text":"MCAS", 
-            //"icon":"fab fa-microsoft", 
-            "link":"https://dpcqld.portal.cloudappsecurity.com"
         },
         {   "cat": "Microsoft", 
             "text":"MSAdm", 
@@ -598,8 +609,6 @@ dataset = {
             //"icon": "fab fa-hacker-news-square",
             "link": "https://krebsonsecurity.com/"
         },
-        
-        
         {
             "cat": "News",
             "text": "ThreatABLE",
@@ -623,6 +632,12 @@ dataset = {
             "text": "Brisbanetimes",
             //"icon": "fas fa-newspaper ",
             "link": "https://www.brisbanetimes.com.au/"
+        },
+        {
+            "cat": "News",
+            "text": "Courier Mail",
+            //"icon": "fas fa-newspaper ",
+            "link": "https://www.couriermail.com.au/"
         },
         {
             "cat": "News",
