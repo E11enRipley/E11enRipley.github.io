@@ -421,11 +421,11 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
         },
-
-
-
-
-
+        {   "cat": "Microsoft", 
+            "text":"M365 Feature Matrix", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://m365maps.com/matrix.htm"
+        },
         {   "cat": "Microsoft", 
             "text":"Intune", 
             //"icon":"fab fa-microsoft", 
