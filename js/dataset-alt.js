@@ -487,12 +487,6 @@ dataset = {
         },
         {
             "cat": "Security",
-            "text": "CyberScoop",
-            //"icon": "fas fa-newspaper",
-            "link": "https://cyberscoop.com//"
-        },
-        {
-            "cat": "Security",
             "text": "CYWARE",
             //"icon": "fas fa-newspaper",
             "link": "https://cyware.com/cyber-security-news-articles"
@@ -572,6 +566,12 @@ dataset = {
             "text": "Bleeping Computer",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.bleepingcomputer.com/"
+        },
+        {
+            "cat": "News",
+            "text": "CyberScoop",
+            //"icon": "fas fa-newspaper",
+            "link": "https://cyberscoop.com//"
         },
         {
             "cat": "News",
