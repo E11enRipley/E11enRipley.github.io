@@ -419,7 +419,7 @@ dataset = {
         {   "cat": "Microsoft", 
             "text":"Entra ID (AAD)", 
             //"icon":"fab fa-microsoft", 
-            "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
+            "link":"https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview"
         },
         {   "cat": "Microsoft", 
             "text":"M365 Feature Matrix", 
@@ -441,11 +441,6 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://securitycenter.windows.com/dashboard"
         },
-        //{   "cat": "Microsoft", 
-            //"text":"Defender for Cloud", 
-            //"icon":"fab fa-microsoft", 
-            //"link":"https://portal.azure.com/#view/Microsoft_Azure_Security/SecurityMenuBlade/~/0"
-        //},
         {   "cat": "Microsoft", 
             "text":"EXO", 
             //"icon":"fab fa-microsoft", 
