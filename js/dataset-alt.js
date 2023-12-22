@@ -417,6 +417,11 @@ dataset = {
             "link":"https://microsoft.github.io/Azure-Threat-Research-Matrix/"
         },
         {   "cat": "Microsoft", 
+            "text":"Defender", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://securitycenter.windows.com/dashboard"
+        },        
+        {   "cat": "Microsoft", 
             "text":"Entra ID (AAD)", 
             //"icon":"fab fa-microsoft", 
             "link":"https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview"
@@ -426,11 +431,7 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/privileged-roles-permissions?tabs=admin-center#who-can-perform-sensitive-actions"
         },
-        {   "cat": "Microsoft", 
-            "text":"M365 Feature Matrix", 
-            //"icon":"fab fa-microsoft", 
-            "link":"https://m365maps.com/matrix.htm"
-        },
+
         {   "cat": "Microsoft", 
             "text":"Intune", 
             //"icon":"fab fa-microsoft", 
@@ -442,14 +443,14 @@ dataset = {
             "link":"https://compliance.microsoft.com"
         },
         {   "cat": "Microsoft", 
-            "text":"Defender", 
-            //"icon":"fab fa-microsoft", 
-            "link":"https://securitycenter.windows.com/dashboard"
-        },
-        {   "cat": "Microsoft", 
             "text":"EXO", 
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/homepage"
+        },
+        {   "cat": "Microsoft", 
+            "text":"M365 Feature Matrix", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://m365maps.com/matrix.htm"
         },
         {   "cat": "Microsoft", 
             "text":"MSAdm", 
