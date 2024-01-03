@@ -3,12 +3,7 @@ dataset = {
     [
         ////////////////////////////////////////
         //search engines
-        {
-            "cat": "search",
-            "text": "ONYPHE",
-            //"icon": "fab fa-searchengin",
-            "link": "https://www.onyphe.io/"
-        },
+
         {
             "cat": "search",
             "text": "Censys",
@@ -26,24 +21,6 @@ dataset = {
             "text": "Cybersecurity search engine",
             //"icon": "fas fa-search",
             "link": "https://www.criminalip.io/en"
-        },
-        {
-            "cat": "search",
-            "text": "FOFA",
-            //"icon": "fas fa-search",
-            "link": "https://en.fofa.info/"
-        },
-        {
-            "cat": "search",
-            "text": "Greynoise Visualiser",
-            //"icon": "fas fa-search",
-            "link": "https://viz.greynoise.io/"
-        },
-        {
-            "cat": "threatintel",
-            "text": "Hunter",
-            //"icon": "fas fa-search",
-            "link": "https://hunter.io/"
         },
         {
             "cat": "search",
@@ -87,9 +64,27 @@ dataset = {
         },
         {
             "cat": "threatintel",
+            "text": "Greynoise Visualiser",
+            //"icon": "fas fa-search",
+            "link": "https://viz.greynoise.io/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Hunter",
+            //"icon": "fas fa-search",
+            "link": "https://hunter.io/"
+        },
+        {
+            "cat": "threatintel",
             "text": "IDE & Paste search",
             //"icon": "fas fa-search",
             "link": "https://redhuntlabs.com/online-ide-search"
+        },
+        {
+            "cat": "threatintel",
+            "text": "ONYPHE",
+            //"icon": "fab fa-searchengin",
+            "link": "https://www.onyphe.io/"
         },
         {
             "cat": "threatintel",
