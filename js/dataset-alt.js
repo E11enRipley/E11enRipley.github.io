@@ -3,7 +3,6 @@ dataset = {
     [
         ////////////////////////////////////////
         //search engines
-
         {
             "cat": "search",
             "text": "Censys",
@@ -46,7 +45,6 @@ dataset = {
             //"icon": "fas fa-search",
             "link": "https://www.zoomeye.org/"
         },   
-        
         
         ////////////////////////////////////////
         //threat intelligence
