@@ -1,7 +1,77 @@
 dataset = {
     "records":
     [
-         ////////////////////////////////////////
+        ////////////////////////////////////////
+        //search engines
+        {
+            "cat": "search",
+            "text": "ONYPHE",
+            //"icon": "fab fa-searchengin",
+            "link": "https://www.onyphe.io/"
+        },
+        {
+            "cat": "search",
+            "text": "Censys",
+            //"icon": "fas fa-search",
+            "link": "https://search.censys.io/"
+        },
+        {
+            "cat": "search",
+            "text": "Cyber threat search engine (cyb3rops)",
+            //"icon": "fas fa-search",
+            "link": "https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc"
+        },
+        {
+            "cat": "search",
+            "text": "Cybersecurity search engine",
+            //"icon": "fas fa-search",
+            "link": "https://www.criminalip.io/en"
+        },
+        {
+            "cat": "search",
+            "text": "FOFA",
+            //"icon": "fas fa-search",
+            "link": "https://en.fofa.info/"
+        },
+        {
+            "cat": "search",
+            "text": "Greynoise Visualiser",
+            //"icon": "fas fa-search",
+            "link": "https://viz.greynoise.io/"
+        },
+        {
+            "cat": "threatintel",
+            "text": "Hunter",
+            //"icon": "fas fa-search",
+            "link": "https://hunter.io/"
+        },
+        {
+            "cat": "search",
+            "text": "Intelligence X",
+            //"icon": "fas fa-search",
+            "link": "https://intelx.io/"
+        },
+        {
+            "cat": "search",
+            "text": "LeakIX",
+            //"icon": "fas fa-search",
+            "link": "https://leakix.net/"
+        },
+        {
+            "cat": "search",
+            "text": "Sploitus - Vuln. search",
+            //"icon": "fas fa-search",
+            "link": "https://sploitus.com/"
+        },
+        {
+            "cat": "search",
+            "text": "Zoomeye",
+            //"icon": "fas fa-search",
+            "link": "https://www.zoomeye.org/"
+        },   
+        
+        
+        ////////////////////////////////////////
         //threat intelligence
         {
             "cat": "threatintel",
@@ -17,27 +87,9 @@ dataset = {
         },
         {
             "cat": "threatintel",
-            "text": "Hunter (Domain Ctcs)",
-            //"icon": "fas fa-search",
-            "link": "https://hunter.io/"
-        },
-        {
-            "cat": "threatintel",
             "text": "IDE & Paste search",
             //"icon": "fas fa-search",
             "link": "https://redhuntlabs.com/online-ide-search"
-        },
-        {
-            "cat": "threatintel",
-            "text": "IntelligenceX",
-            //"icon": "fas fa-search",
-            "link": "https://intelx.io/"
-        },
-        {
-            "cat": "threatintel",
-            "text": "Onyphe Cyber Defense",
-            //"icon": "fas fa-search",
-            "link": "https://www.onyphe.io/"
         },
         {
             "cat": "threatintel",
