@@ -22,6 +22,12 @@ dataset = {
             "link": "https://www.criminalip.io/en"
         },
         {
+            "cat": "threatintel",
+            "text": "Greynoise Visualiser",
+            //"icon": "fas fa-search",
+            "link": "https://viz.greynoise.io/"
+        },
+        {
             "cat": "search",
             "text": "Intelligence X",
             //"icon": "fas fa-search",
@@ -44,8 +50,8 @@ dataset = {
             "text": "Zoomeye",
             //"icon": "fas fa-search",
             "link": "https://www.zoomeye.org/"
-        },   
-        
+        },
+
         ////////////////////////////////////////
         //threat intelligence
         {
@@ -59,12 +65,6 @@ dataset = {
             "text": "Full Hunt (AtkSfc)",
             //"icon": "fas fa-search",
             "link": "https://fullhunt.io/"
-        },
-        {
-            "cat": "threatintel",
-            "text": "Greynoise Visualiser",
-            //"icon": "fas fa-search",
-            "link": "https://viz.greynoise.io/"
         },
         {
             "cat": "threatintel",
