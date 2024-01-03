@@ -400,10 +400,16 @@ dataset = {
         },
         {
             "cat": "Tools",
+            "text": "Blue team notes",
+            //"icon": "fas fa-building",
+            "link": "https://github.com/Purp1eW0lf/Blue-Team-Notes"
+        },
+        {
+            "cat": "Tools",
             "text": "Blue team cheat sheets",
             //"icon": "fas fa-building",
             "link": "https://github.com/sans-blue-team/blue-team-wiki"
-        }, 
+        },
         {
             "cat": "Tools",
             "text": "Offensive cheat sheets",
