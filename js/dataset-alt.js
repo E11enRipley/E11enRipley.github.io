@@ -41,7 +41,13 @@ dataset = {
         },
         {
             "cat": "search",
-            "text": "Sploitus - Vuln. search",
+            "text": "ONYPHE",
+            //"icon": "fab fa-searchengin",
+            "link": "https://www.onyphe.io/"
+        },
+        {
+            "cat": "search",
+            "text": "Sploitus (Vuln. search)",
             //"icon": "fas fa-search",
             "link": "https://sploitus.com/"
         },
@@ -77,12 +83,6 @@ dataset = {
             "text": "IDE & Paste search",
             //"icon": "fas fa-search",
             "link": "https://redhuntlabs.com/online-ide-search"
-        },
-        {
-            "cat": "threatintel",
-            "text": "ONYPHE",
-            //"icon": "fab fa-searchengin",
-            "link": "https://www.onyphe.io/"
         },
         {
             "cat": "threatintel",
