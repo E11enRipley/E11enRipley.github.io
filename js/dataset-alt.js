@@ -11,6 +11,13 @@ dataset = {
         },
         {
             "cat": "search",
+            "text": "CVE Details",
+            //"icon": "fas fa-search",
+            "link": "https://www.cvedetails.com/"
+        },
+        
+        {
+            "cat": "search",
             "text": "Cyber threat search engine (cyb3rops)",
             //"icon": "fas fa-search",
             "link": "https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc"
@@ -337,6 +344,12 @@ dataset = {
             "text": "IP Info",
             //"icon": "fas fa-search-location",
             "link": "https://ipinfo.io/"
+        },
+        {
+            "cat": "IP/DNS",
+            "text": "IP Location",
+            //"icon": "fas fa-search-location",
+            "link": "https://www.iplocation.net/"
         },
         {
             "cat": "IP/DNS",
