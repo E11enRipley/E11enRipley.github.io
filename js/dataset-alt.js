@@ -15,7 +15,6 @@ dataset = {
             //"icon": "fas fa-search",
             "link": "https://www.cvedetails.com/"
         },
-        
         {
             "cat": "search",
             "text": "Cyber threat search engine (cyb3rops)",
@@ -51,6 +50,12 @@ dataset = {
             "text": "ONYPHE",
             //"icon": "fab fa-searchengin",
             "link": "https://www.onyphe.io/"
+        },
+        {
+            "cat": "search",
+            "text": "Shodan",
+            //"icon": "fas fa-search",
+            "link": "https://www.shodan.io/"
         },
         {
             "cat": "search",
