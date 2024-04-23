@@ -548,6 +548,12 @@ dataset = {
             //"icon":"fab fa-microsoft", 
             "link":"https://admin.exchange.microsoft.com/#/reports/transportruledetails"
         },
+        {   "cat": "Microsoft", 
+            "text":"MSFT Error Codes", 
+            //"icon":"fab fa-microsoft", 
+            "link":"https://login.microsoftonline.com/error"
+        },
+        
         ////////////////////////////////////////
         //security
         {
