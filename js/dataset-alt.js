@@ -80,6 +80,12 @@ dataset = {
         },
         {
             "cat": "threatintel",
+            "text": "CTI links",
+            //"icon": "fab fa-searchengin",
+            "link": "https://start.me/p/wMrA5z/cyber-threat-intelligence"
+        },
+        {
+            "cat": "threatintel",
             "text": "Full Hunt (AtkSfc)",
             //"icon": "fas fa-search",
             "link": "https://fullhunt.io/"
@@ -134,9 +140,9 @@ dataset = {
         },
         {
             "cat": "threatintel",
-            "text": "CTI links",
+            "text": "Zero Day Initiative",
             //"icon": "fab fa-searchengin",
-            "link": "https://start.me/p/wMrA5z/cyber-threat-intelligence"
+            "link": "https://www.zerodayinitiative.com/advisories/upcoming/"
         },
 
        ////////////////////////////////////////
@@ -728,6 +734,13 @@ dataset = {
             //"icon": "fas fa-newspaper ",
             "link": "https://www.news.com.au"
         },
+        {
+            "cat": "News",
+            "text": "The Mandarin",
+            //"icon": "fas fa-newspaper ",
+            "link": "https://www.themandarin.com.au"
+        },
+
         ////////////////////////////////////////
         //google
         {
