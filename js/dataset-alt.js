@@ -116,6 +116,12 @@ dataset = {
         },
         {
             "cat": "threatintel",
+            "text": "Ransomware Live",
+            //"icon": "fas fa-search",
+            "link": "https://www.ransomware.live/#/"
+        },
+        {
+            "cat": "threatintel",
             "text": "Reposify (AtkSfc)",
             //"icon": "fas fa-search",
             "link": "https://reposify.com/"
@@ -188,6 +194,12 @@ dataset = {
             "text": "IVRE (Ntwk recon)",
             //"icon": "fas fa-search",
             "link": "https://ivre.rocks/"
+        },
+        {
+            "cat": "hunting",
+            "text": "Ransomware.live",
+            //"icon": "fas fa-search",
+            "link": "https://www.ransomware.live/#/"
         },
         {
             "cat": "hunting",
