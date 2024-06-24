@@ -110,6 +110,12 @@ dataset = {
         },
         {
             "cat": "threatintel",
+            "text": "Pivot Atlas",
+            //"icon": "fas fa-search",
+            "link": "https://gopivot.ing/"
+        },
+        {
+            "cat": "threatintel",
             "text": "PulseDive",
             //"icon": "fas fa-search",
             "link": "https://pulsedive.com/"
@@ -194,6 +200,12 @@ dataset = {
             "text": "IVRE (Ntwk recon)",
             //"icon": "fas fa-search",
             "link": "https://ivre.rocks/"
+        },
+        {
+            "cat": "hunting",
+            "text": "Predictasearch (eml+ph footprint)",
+            //"icon": "fas fa-search",
+            "link": "https://predictasearch.com/"
         },
         {
             "cat": "hunting",
