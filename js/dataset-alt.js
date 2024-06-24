@@ -28,6 +28,12 @@ dataset = {
             "link": "https://www.criminalip.io/en"
         },
         {
+            "cat": "search",
+            "text": "Email + Ph footprint",
+            //"icon": "fab fa-searchengin",
+            "link": "https://predictasearch.com/"
+        },
+        {
             "cat": "threatintel",
             "text": "Greynoise Visualiser",
             //"icon": "fas fa-search",
