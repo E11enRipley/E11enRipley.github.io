@@ -654,6 +654,12 @@ dataset = {
         },
         {
             "cat": "Security",
+            "text": "MITRE Navigator",
+            //"icon": "fas fa-newspaper",
+            "link": "https://mitre-attack.github.io/attack-navigator/"
+        },
+        {
+            "cat": "Security",
             "text": "Naked Security",
             //"icon": "fas fa-newspaper",
             "link": "https://nakedsecurity.sophos.com/"
