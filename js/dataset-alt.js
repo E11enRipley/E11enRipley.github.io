@@ -678,7 +678,7 @@ dataset = {
         },
         {
             "cat": "Security",
-            "text": "Security Patterns",
+            "text": "SecurityPatterns.io",
             //"icon": "fas fa-newspaper",
             "link": "https://securitypatterns.io/"
         },
