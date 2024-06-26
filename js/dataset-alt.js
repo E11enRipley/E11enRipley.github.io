@@ -660,21 +660,27 @@ dataset = {
         },
         {
             "cat": "Security",
-            "text": "Naked Security",
-            //"icon": "fas fa-newspaper",
-            "link": "https://nakedsecurity.sophos.com/"
-        },
-        {
-            "cat": "Security",
             "text": "RE&CT Framework",
             //"icon": "fas fa-newspaper",
             "link": "https://atc-project.github.io/atc-react/"
         },
         {
             "cat": "Security",
+            "text": "Naked Security",
+            //"icon": "fas fa-newspaper",
+            "link": "https://nakedsecurity.sophos.com/"
+        },
+        {
+            "cat": "Security",
             "text": "SANS Defense",
             //"icon": "fas fa-newspaper",
             "link": "https://wiki.sans.blue/#!index.md"
+        },
+        {
+            "cat": "Security",
+            "text": "Security Patterns",
+            //"icon": "fas fa-newspaper",
+            "link": "https://securitypatterns.io/"
         },
         {
             "cat": "Security",
