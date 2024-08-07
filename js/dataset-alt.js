@@ -503,18 +503,6 @@ dataset = {
             //"icon": "fas fa-building",
             "link": "https://github.com/Purp1eW0lf/Blue-Team-Notes"
         },
-        {
-            "cat": "Tools",
-            "text": "Blue team cheat sheets",
-            //"icon": "fas fa-building",
-            "link": "https://github.com/sans-blue-team/blue-team-wiki"
-        },
-        {
-            "cat": "Tools",
-            "text": "Offensive cheat sheets",
-            //"icon": "fas fa-building",
-            "link": "https://cheatsheet.haax.fr/"
-        }, 
 
         ////////////////////////////////////////
         //microsoft
@@ -694,9 +682,21 @@ dataset = {
         //news
         {
             "cat": "News",
+            "text": "Ars Technica",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://arstechnica.com/information-technology/"
+        },
+        {
+            "cat": "News",
             "text": "Bleeping Computer",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://www.bleepingcomputer.com/"
+        },
+        {
+            "cat": "News",
+            "text": "Cyber Daily",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://www.cyberdaily.au/security"
         },
         {
             "cat": "News",
@@ -739,6 +739,12 @@ dataset = {
             "text": "Krebs",
             //"icon": "fab fa-hacker-news-square",
             "link": "https://krebsonsecurity.com/"
+        },
+        {
+            "cat": "News",
+            "text": "Security Brief",
+            //"icon": "fab fa-hacker-news-square",
+            "link": "https://securitybrief.com.au/"
         },
         {
             "cat": "News",
@@ -883,8 +889,44 @@ dataset = {
             //"icon": "fas fa-chalkboard-teacher",
             "link": "https://app.pluralsight.com"
         },
+        {
+            "cat": "Tools",
+            "text": "Blue team cheat sheets",
+            //"icon": "fas fa-building",
+            "link": "https://github.com/sans-blue-team/blue-team-wiki"
+        },
+        {
+            "cat": "Tools",
+            "text": "Offensive cheat sheets",
+            //"icon": "fas fa-building",
+            "link": "https://cheatsheet.haax.fr/"
+        }, 
         ////////////////////////////////////////
         //social
+        {
+            "cat": "Social",
+            "text": "AusCERT Dailies/Weeklies",
+            //"icon": "fab fa-twitter  fa-2x'></i>",
+            "link": "https://auscert.org.au/"
+        },
+        {
+            "cat": "Social",
+            "text": "CSO Online",
+            //"icon": "fab fa-twitter  fa-2x'></i>",
+            "link": "https://www.csoonline.com/au/"
+        },
+        {
+            "cat": "Social",
+            "text": "Dark Reading Daily",
+            //"icon": "fab fa-twitter  fa-2x'></i>",
+            "link": "https://www.darkreading.com/"
+        },
+        {
+            "cat": "Social",
+            "text": "Entra News",
+            //"icon": "fab fa-twitter  fa-2x'></i>",
+            "link": "https://entra.news/"
+        },
         {
             "cat": "Social",
             "text": "FaceBook",
@@ -911,9 +953,31 @@ dataset = {
         },
         {
             "cat": "Social",
+            "text": "Risky Business",
+            //"icon": "fab fa-reddit-alien  fa-2x'></i>",
+            "link": "https://risky.biz/"
+        },
+        {
+            "cat": "Social",
+            "text": "TLDR InfoSec",
+            //"icon": "fab fa-reddit-alien  fa-2x'></i>",
+            "link": "https://tldr.tech/infosec"
+        },
+        {
+            "cat": "Social",
             "text": "Twitter",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://twitter.com/"
         },
-    
+        {
+            "cat": "Social",
+            "text": "Vulnerable U",
+            //"icon": "fab fa-twitter  fa-2x'></i>",
+            "link": "https://vulnu.mattjay.com/"
+        },
+
+
+
+
+        
 ]};
