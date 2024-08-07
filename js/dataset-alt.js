@@ -666,9 +666,9 @@ dataset = {
         },
         {
             "cat": "Security",
-            "text": "SecurityPatterns.io",
+            "text": "SebDB",
             //"icon": "fas fa-newspaper",
-            "link": "https://securitypatterns.io/"
+            "link": "https://www.cybsafe.com/research/security-behaviour-database/getting-started/"
         },
         {
             "cat": "Security",
