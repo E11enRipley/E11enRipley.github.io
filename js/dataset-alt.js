@@ -702,7 +702,13 @@ dataset = {
             "cat": "News",
             "text": "CyberScoop",
             //"icon": "fas fa-newspaper",
-            "link": "https://cyberscoop.com//"
+            "link": "https://cyberscoop.com/"
+        },
+        {
+            "cat": "News",
+            "text": "CyberScoop",
+            //"icon": "fas fa-newspaper",
+            "link": "https://www.cybersecurity-insiders.com/"
         },
         {
             "cat": "News",
