@@ -847,6 +847,7 @@ dataset = {
         },
         ////////////////////////////////////////
         //learning
+
         {
             "cat": "Learning",
             "text": "AttackIQ",
@@ -908,82 +909,79 @@ dataset = {
             "link": "https://cheatsheet.haax.fr/"
         }, 
         ////////////////////////////////////////
-        //social
+        //socialfeeds
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "AusCERT Dailies/Weeklies",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://auscert.org.au/"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "CSO Online",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://www.csoonline.com/au/"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Dark Reading Daily",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://www.darkreading.com/"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Entra News",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://entra.news/"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "FaceBook",
             //"icon": "fab fa-facebook-f  fa-2x'></i>",
             "link": "https://www.facebook.com"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "LinkedIn",
             //"icon": "fab fa-linkedin  fa-2x'></i>",
             "link": "https://www.linkedin.com.au"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Mastodon",
             //"icon": "fab fa-linkedin  fa-2x'></i>",
             "link": "https://mastodon.online/explore"
         },  
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Reddit",
             //"icon": "fab fa-reddit-alien  fa-2x'></i>",
             "link": "https://old.reddit.com/new"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Risky Business",
             //"icon": "fab fa-reddit-alien  fa-2x'></i>",
             "link": "https://risky.biz/"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "TLDR InfoSec",
             //"icon": "fab fa-reddit-alien  fa-2x'></i>",
             "link": "https://tldr.tech/infosec"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Twitter",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://twitter.com/"
         },
         {
-            "cat": "Social",
+            "cat": "SocialFeeds",
             "text": "Vulnerable U",
             //"icon": "fab fa-twitter  fa-2x'></i>",
             "link": "https://vulnu.mattjay.com/"
         },
-
-
-
-
+    
         
 ]};
